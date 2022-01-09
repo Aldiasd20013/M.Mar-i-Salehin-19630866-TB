@@ -1,0 +1,300 @@
+Koneksi Seusai Kondisi, ditemukan
+3
+Transaksi ke_ : 1:
+(f) item ke1=1
+(f) item ke2=2
+(f) item ke3=4
+Transaksi ke_ : 2:
+(f) item ke1=1
+(f) item ke2=2
+(f) item ke3=5
+Transaksi ke_ : 3:
+(f) item ke1=1
+(f) item ke2=2
+Transaksi ke_ : 4:
+(f) item ke1=4
+(f) item ke2=5
+Transaksi ke_ : 5:
+(f) item ke1=2
+(f) item ke2=4
+(f) item ke3=5
+Transaksi ke_ : 6:
+(f) item ke1=1
+(f) item ke2=2
+Transaksi ke_ : 7:
+(f) item ke1=2
+(f) item ke2=3
+(f) item ke3=4
+Transaksi ke_ : 8:
+(f) item ke1=2
+(f) item ke2=3
+(f) item ke3=4
+Transaksi ke_ : 9:
+(f) item ke1=3
+(f) item ke2=4
+(f) item ke3=5
+Transaksi ke_ : 10:
+(f) item ke1=1
+(f) item ke2=2
+(f) item ke3=3
+Transaksi ke_ : 11:
+(f) item ke1=1
+(f) item ke2=2
+Transaksi ke_ : 12:
+(f) item ke1=1
+(f) item ke2=3
+Transaksi ke_ : 13:
+(f) item ke1=1
+(f) item ke2=4
+Transaksi ke_ : 14:
+(f) item ke1=1
+(f) item ke2=5
+Transaksi ke_ : 15:
+(f) item ke1=2
+(f) item ke2=3
+Transaksi ke_ : 16:
+(f) item ke1=2
+(f) item ke2=4
+Transaksi ke_ : 17:
+(f) item ke1=2
+(f) item ke2=5
+Transaksi ke_ : 18:
+(f) item ke1=3
+(f) item ke2=4
+Transaksi ke_ : 19:
+(f) item ke1=3
+(f) item ke2=5
+Transaksi ke_ : 20:
+(f) item ke1=4
+(f) item ke2=5
+Transaksi ke_ : 21:
+(f) item ke1=1
+(f) item ke2=2
+(f) item ke3=3
+Transaksi ke_ : 22:
+(f) item ke1=1
+(f) item ke2=2
+(f) item ke3=4
+Transaksi ke_ : 23:
+(f) item ke1=1
+(f) item ke2=2
+(f) item ke3=5
+Transaksi ke_ : 24:
+(f) item ke1=1
+(f) item ke2=3
+(f) item ke3=4
+Transaksi ke_ : 25:
+(f) item ke1=1
+(f) item ke2=3
+(f) item ke3=5
+Transaksi ke_ : 26:
+(f) item ke1=1
+(f) item ke2=4
+(f) item ke3=5
+Transaksi ke_ : 27:
+(f) item ke1=2
+(f) item ke2=3
+(f) item ke3=4
+Transaksi ke_ : 28:
+(f) item ke1=2
+(f) item ke2=3
+(f) item ke3=5
+Transaksi ke_ : 29:
+(f) item ke1=2
+(f) item ke2=4
+(f) item ke3=5
+Transaksi ke_ : 30:
+(f) item ke1=3
+(f) item ke2=4
+(f) item ke3=5
+Transaksi ke_ : 31:
+(f) item ke1=1
+(f) item ke2=2
+(f) item ke3=3
+(f) item ke4=4
+Transaksi ke_ : 32:
+(f) item ke1=1
+(f) item ke2=2
+(f) item ke3=3
+(f) item ke4=5
+Transaksi ke_ : 33:
+(f) item ke1=1
+(f) item ke2=2
+(f) item ke3=4
+(f) item ke4=5
+Transaksi ke_ : 34:
+(f) item ke1=1
+(f) item ke2=3
+Transaksi ke_ : 35:
+(f) item ke1=4
+(f) item ke2=5
+Transaksi ke_ : 36:
+(f) item ke1=2
+(f) item ke2=3
+(f) item ke3=4
+(f) item ke4=5
+Transaksi ke_ : 37:
+(f) item ke1=1
+(f) item ke2=2
+(f) item ke3=3
+(f) item ke4=4
+(f) item ke5=5
+Transaksi ke_ : 38:
+(f) item ke1=2
+(f) item ke2=3
+(f) item ke3=5
+Transaksi ke_ : 39:
+(f) item ke1=2
+(f) item ke2=4
+(f) item ke3=5
+Transaksi ke_ : 40:
+(f) item ke1=3
+(f) item ke2=4
+(f) item ke3=5
+Transaksi ke_ : 41:
+(f) item ke1=1
+(f) item ke2=2
+(f) item ke3=3
+(f) item ke4=4
+Transaksi ke_ : 42:
+(f) item ke1=1
+(f) item ke2=2
+(f) item ke3=3
+(f) item ke4=5
+Transaksi ke_ : 43:
+(f) item ke1=1
+(f) item ke2=2
+(f) item ke3=3
+(f) item ke4=4
+(f) item ke5=5
+Transaksi ke_ : 44:
+(f) item ke1=1
+(f) item ke2=2
+Transaksi ke_ : 45:
+(f) item ke1=1
+(f) item ke2=3
+Transaksi ke_ : 46:
+(f) item ke1=1
+(f) item ke2=4
+Transaksi ke_ : 47:
+(f) item ke1=1
+(f) item ke2=5
+Transaksi ke_ : 48:
+(f) item ke1=2
+(f) item ke2=3
+Transaksi ke_ : 49:
+(f) item ke1=2
+Transaksi ke_ : 50:
+(f) item ke1=4
+Transaksi ke_ : 51:
+(f) item ke1=2
+(f) item ke2=5
+Transaksi ke_ : 52:
+(f) item ke1=3
+(f) item ke2=4
+Transaksi ke_ : 53:
+(f) item ke1=3
+(f) item ke2=5
+Transaksi ke_ : 54:
+(f) item ke1=4
+(f) item ke2=5
+Transaksi ke_ : 55:
+(f) item ke1=1
+(f) item ke2=2
+(f) item ke3=3
+Transaksi ke_ : 56:
+(f) item ke1=1
+(f) item ke2=2
+(f) item ke3=4
+Transaksi ke_ : 57:
+(f) item ke1=1
+(f) item ke2=2
+(f) item ke3=5
+Transaksi ke_ : 58:
+(f) item ke1=1
+(f) item ke2=3
+(f) item ke3=4
+Transaksi ke_ : 59:
+(f) item ke1=1
+(f) item ke2=3
+(f) item ke3=5
+Transaksi ke_ : 60:
+(f) item ke1=1
+(f) item ke2=4
+(f) item ke3=5
+Transaksi ke_ : 61:
+(f) item ke1=2
+(f) item ke2=3
+(f) item ke3=4
+Transaksi ke_ : 62:
+(f) item ke1=2
+(f) item ke2=3
+(f) item ke3=5
+(f) item ke4=2
+Transaksi ke_ : 63:
+(f) item ke1=2
+(f) item ke2=3
+(f) item ke3=5
+Transaksi ke_ : 64:
+(f) item ke1=2
+(f) item ke2=4
+(f) item ke3=5
+(f) item ke4=3
+Transaksi ke_ : 65:
+(f) item ke1=4
+(f) item ke2=5
+(f) item ke3=1
+(f) item ke4=2
+(f) item ke5=3
+(f) item ke6=4
+Transaksi ke_ : 66:
+(f) item ke1=1
+(f) item ke2=2
+(f) item ke3=3
+(f) item ke4=5
+Transaksi ke_ : 67:
+(f) item ke1=1
+(f) item ke2=2
+(f) item ke3=3
+(f) item ke4=4
+(f) item ke5=5
+-+- Kombinasi Item -+-
+[4] : 36
+[1] : 36
+[5] : 37
+[2] : 42
+[3] : 38
+-+- Kombinasi Item -+-
+[1, 4] : 16
+[2, 3] : 24
+[3, 5] : 20
+[1, 2] : 23
+[2, 5] : 22
+[1, 5] : 17
+[1, 3] : 19
+[3, 4] : 19
+[2, 4] : 20
+[4, 5] : 19
+-+- Kombinasi Item -+-
+[1, 3, 5] : 9
+[2, 3, 5] : 13
+[1, 3, 4] : 8
+[1, 2, 4] : 10
+[1, 4, 5] : 7
+[2, 4, 5] : 10
+[3, 4, 5] : 9
+[1, 2, 5] : 11
+[2, 3, 4] : 12
+[1, 2, 3] : 12
+-+- Kombinasi Item -+-
+[1, 2, 3, 5] : 7
+[1, 2, 4, 5] : 5
+[1, 3, 4, 5] : 4
+[2, 3, 4, 5] : 6
+[1, 2, 3, 4] : 6
+-+- Kombinasi Item -+-
+[1, 2, 3, 4, 5] : 4
+
+++= FINAL LIST =+=
+[1, 2, 3, 4, 5] : 4
+anpratikum2020\src\report\Apriori.txt
